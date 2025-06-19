@@ -1,18 +1,18 @@
 # FILE-INTEGRITY-CHECKER
 
-COMPANY   : Codtech IT Solutions
+### COMPANY   : Codtech IT Solutions
 
-NAME      : Alla Meghana Reddy
+### NAME      : Alla Meghana Reddy
 
-INTERN ID : CT06DG1638
+### INTERN ID : CT06DG1638
 
-DOMAIN    : Cyber Security & Ethical Hacking
+### DOMAIN    : Cyber Security & Ethical Hacking
 
-DURATION  : 6 weeks
+### DURATION  : 6 weeks
 
-MENTOR    : Neela Santhosh
+### MENTOR    : Neela Santhosh
 
-DESCRIPTION OF TASK: 
+### DESCRIPTION OF TASK: 
 TASK NAME - File Integrity Checker using Python Code
 GOAL      - The primary goal of this task was to design and implement a File Integrity Checker—a cybersecurity utility that monitors changes to files by calculating and                  comparing hash values. It is possible by using the method called "hashing", which gives each file a unique digital fingerprint. By comparing these                            fingerprints each time the tool runs, we can see if something in the files has been modified—either on purpose or by accident. This task has the basics of                    how to keep files safe and identify any unwanted changes, which is a key part of cybersecurity.
 PLATFORMS USED - The development of the task was carried out using Visual Studio Code as the IDE, offering a flexible coding space with Python support and Git                                 integration. The final script is version-controlled and publicly accessible via a GitHub repository, allowing for collaborative feedback  and potential                       community improvements.
@@ -34,5 +34,6 @@ APPLICATIONS OT THE TASK -
                           4.Backup Verification - Ensuring that backed-up files have not been inadvertently corrupted or altered during storage or transfer.
                           5. Software Development - Developers can use this tool to verify that their deployments or builds are unaltered from verified source files.
 
+#### OUTPUT - ![Image](https://github.com/user-attachments/assets/c5631c79-9d07-4a71-9f74-19e93cb6d8b4)
 
 
