@@ -12,7 +12,7 @@ DURATION  : 6 weeks
 
 MENTOR    : Neela Santhosh
 
-DESCRIPTION OF TASK-1 : 
+DESCRIPTION OF TASK: 
 TASK NAME - File Integrity Checker using Python Code
 GOAL      - The primary goal of this task was to design and implement a File Integrity Checker—a cybersecurity utility that monitors changes to files by calculating and                  comparing hash values. It is possible by using the method called "hashing", which gives each file a unique digital fingerprint. By comparing these                            fingerprints each time the tool runs, we can see if something in the files has been modified—either on purpose or by accident. This task has the basics of                    how to keep files safe and identify any unwanted changes, which is a key part of cybersecurity.
 PLATFORMS USED - The development of the task was carried out using Visual Studio Code as the IDE, offering a flexible coding space with Python support and Git                                 integration. The final script is version-controlled and publicly accessible via a GitHub repository, allowing for collaborative feedback  and potential                       community improvements.
